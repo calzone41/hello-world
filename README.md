@@ -1,2 +1,2 @@
 # hello-world
-reository to learn github features an 
+test repository to learn how to use github
